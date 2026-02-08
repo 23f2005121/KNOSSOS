@@ -1,0 +1,21 @@
+[33m591e363[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m591e363[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33m591e363[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: reset: moving to HEAD
+[33m591e363[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{3}: reset: moving to HEAD
+[33m591e363[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{4}: reset: moving to HEAD
+[33m591e363[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{5}: reset: moving to HEAD
+[33m591e363[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{6}: reset: moving to HEAD
+[33m591e363[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{7}: commit (merge): Merge remote-tracking branch 'origin/main'
+[33mca7d982[m HEAD@{8}: commit: features: implmented attack function, with up down right left, implemented 2x damage powerup, knockback feature
+[33mfae0bf7[m HEAD@{9}: commit: features: attack function with 3 weapon types, no textures implemented yet
+[33m6c2269c[m HEAD@{10}: merge origin/main: Fast-forward
+[33mbfe6606[m HEAD@{11}: merge origin/main: Fast-forward
+[33m8fba39d[m HEAD@{12}: merge origin/main: Fast-forward
+[33mc0e8901[m HEAD@{13}: merge origin/main: Fast-forward
+[33mcdf74b0[m HEAD@{14}: merge origin/main: Fast-forward
+[33madd274a[m HEAD@{15}: merge origin/main: Fast-forward
+[33m4f914b0[m HEAD@{16}: merge origin/main: Fast-forward
+[33me8483de[m HEAD@{17}: merge origin/main: Fast-forward
+[33m7854030[m HEAD@{18}: merge origin/main: Merge made by the 'ort' strategy.
+[33mcbf8fbd[m HEAD@{19}: commit: Waleed side commit, commited Enemy related classes
+[33me451c11[m HEAD@{20}: clone: from https://artemis.tum.de/git/FOPWS2526PROJECTFOP/fopws2526projectfop-tumato.git

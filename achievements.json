@@ -1,0 +1,22 @@
+[
+  { "id": "CHEAT_USED", "title": "Dirty Cheater!", "desc": "Used a console command. Mom is disappointed." },
+  { "id": "OUTSIDE_WORLD", "title": "Flat Earther?", "desc": "You left the square world. It's dark out here." },
+  { "id": "LEVEL_5_GENOCIDE", "title": "The Doom Slayer", "desc": "Level 5 cleared. No survivors left." },
+  { "id": "PAUSE_SPAM", "title": "Commitment Issues", "desc": "Paused 5 times in one run. Just play!" },
+  { "id": "FINISH_LEVEL_1", "title": "Baby Steps", "desc": "You finished Level 1. Only 4 more to go!" },
+  { "id": "FINISH_LEVEL_2", "title": "Getting Serious", "desc": "Level 2 complete. You're a natural." },
+  { "id": "FINISH_LEVEL_3", "title": "Halfway There", "desc": "Level 3 done. Don't stop now." },
+  { "id": "FINISH_LEVEL_4", "title": "Almost a Hero", "desc": "Level 4 cleared. One last push!" },
+  { "id": "FINISH_LEVEL_5", "title": "Maze Runner", "desc": "You beat Level 5. Legend." },
+  { "id": "STORY_COMPLETE", "title": "TUMato Supreme", "desc": "All story levels cleared. What a legend." },
+  { "id": "NO_DEATH_LEVEL", "title": "Untouchable", "desc": "Finished a level without taking damage." },
+  { "id": "SPEEDRUN", "title": "Sonic the TUMato", "desc": "Finished a level in under 30 seconds!" },
+  { "id": "VEGAN_RUN", "title": "Vegan Mode", "desc": "Level cleared without collecting hearts." },
+  { "id": "FIRST_DEATH", "title": "Tomato Soup", "desc": "You lost your first life. Splat." },
+  { "id": "TRAP_DEATH", "title": "Not Very Bright", "desc": "Died to a stationary trap. Really?" },
+  { "id": "ENEMY_DEATH", "title": "Skill Issue", "desc": "Died to an enemy. They are smarter than you." },
+  { "id": "EARLY_DEATH", "title": "Speedrun to Heaven", "desc": "Died within 5 seconds. Impressive." },
+  { "id": "FIRST_SPEED", "title": "Zoomies", "desc": "Collected your first Speed power-up." },
+  { "id": "SETTINGS_CHANGED", "title": "Custom Tailored", "desc": "Changed your keybindings for the first time." },
+  { "id": "SKILL_GOD", "title": "Overpowered", "desc": "Maxed out the entire Mastery tree." }
+]

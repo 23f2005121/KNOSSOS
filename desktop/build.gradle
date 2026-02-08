@@ -1,0 +1,32 @@
+sourceSets.main.java.srcDirs = [ "src/" ]
+sourceCompatibility = 17
+
+project.ext.mainClassName = "de.tum.cit.fop.maze.DesktopLauncher"
+project.ext.assetsDir = new File("../assets")
+
+task run(type: JavaExec) {
+    mainClass = project.mainClassName
+    classpath = sourceSets.main.runtimeClasspath
+    standardInput = System.in
+    workingDir = project.assetsDir
+    ignoreExitValue = true
+
+    if (org.gradle.internal.os.OperatingSystem.current() == org.gradle.internal.os.OperatingSystem.MAC_OS) {
+        jvmArgs += "-XstartOnFirstThread"
+    }
+}
+
+task dist(type: Jar) {
+    manifest {
+        attributes 'Main-Class': project.mainClassName
+    }
+    dependsOn configurations.runtimeClasspath
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+    with jar
+}
+
+dist.dependsOn classes
+
+eclipse.project.name = appName + "-desktop"
